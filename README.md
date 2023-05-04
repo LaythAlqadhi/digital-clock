@@ -21,6 +21,8 @@ This project was built using HTML, CSS, and JavaScript.
 
 ## Preview
 
+You can preview the project [here](https://laythalqadhi.github.io/digital-clock/).
+
 ## Code Explanation
 
 ### CSS
