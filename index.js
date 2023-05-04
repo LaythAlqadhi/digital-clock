@@ -22,9 +22,9 @@ const setBackground = () => {
   const now = new Date();
   const hour = now.getHours();
   if (hour >= 6 && hour < 18) {
-    body.style.backgroundImage = "url('day.jpeg')";
+    body.style.backgroundImage = "url('images/day.jpeg')";
   } else {
-    body.style.backgroundImage = "url('night.jpeg')";
+    body.style.backgroundImage = "url('images/night.jpeg')";
   }
 }
 
